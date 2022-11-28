@@ -5,7 +5,7 @@ Year Of Birth: 12/06/2???
 ______________________________________
 DEVELOPER
 
-Hacker: White Hat
+Hacker: Gray Hat
 
 Fluent In Language: HTML,JS,PYTHON,...
 
