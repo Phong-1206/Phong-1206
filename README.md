@@ -3,7 +3,7 @@ My Full Name: TRAN TUAN PHONG
 
 Year Of Birth: 12/06/2???
 ______________________________________
-DEVELOPER
+SEC | AI | DEV | TOOL | MMO 
 
 Hacker: Gray Hat
 
